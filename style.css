@@ -307,8 +307,8 @@ section {
 }
 
 
-
-li {
+  
+ ul li {
     font: 1rem 'Fira Sans', sans-serif;
     line-height: 45px;
     font-weight: bold;
